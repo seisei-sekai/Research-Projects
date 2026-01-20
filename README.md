@@ -1,15 +1,15 @@
-# Research Papers Collection
+# Research Projects
 
-A curated collection of research papers exploring the intersection of music, cognition, computation, and theoretical frameworks. This repository serves as a knowledge base for interdisciplinary research spanning cognitive neuroscience, music information retrieval, and algorithmic approaches to music composition and analysis.
+A curated collection of research projects exploring the intersection of music, cognition, computation, and theoretical frameworks. This repository spans cognitive neuroscience, music information retrieval, and algorithmic approaches to music composition and analysis.
 
 ## 📚 Overview
 
-This repository contains academic papers and research materials that explore various aspects of music from computational, cognitive, and theoretical perspectives. The collection is organized into three main research domains, each representing a unique approach to understanding and working with music.
+This repository contains academic projects and research materials exploring music from computational, cognitive, and theoretical perspectives.
 
 ## 🗂️ Repository Structure
 
 ```
-Research-Paper/
+Research-Projects/
 ├── cognitive_neuroscience/
 │   ├── Benny_Poster_2023 final.pdf
 │   └── Nov.14 Harmony Syntactic Function Emerging from Sequential Scale Notes.pdf
@@ -23,95 +23,43 @@ Research-Paper/
 ## 🔬 Research Domains
 
 ### 1. Cognitive Neuroscience
-**Focus**: Understanding how the brain processes and perceives music
+Understanding how the brain processes and perceives music, with emphasis on harmonic processing, syntactic function, and neural correlates of musical understanding.
 
-This section contains research exploring the cognitive and neural mechanisms underlying music perception, with particular emphasis on:
-- Harmonic processing and syntactic function in music
-- Sequential scale note relationships and their cognitive implications
-- Neural correlates of musical understanding
-
-**Papers**:
+**Projects**:
 - `Benny_Poster_2023 final.pdf` - Research poster presentation from 2023
-- `Nov.14 Harmony Syntactic Function Emerging from Sequential Scale Notes.pdf` - Investigation of how harmonic syntax emerges from sequential musical patterns
+- `Nov.14 Harmony Syntactic Function Emerging from Sequential Scale Notes.pdf` - Investigation of harmonic syntax emergence
+
+**References**:
+- Zhang, S., & Fujioka, T. (2023). Harmony syntactic function emerging from sequential scale notes in a diatonic mode: An event-related potential study. *The 22nd annual Auditory Perception, Cognition, and Action Meeting (APCAM) & 185th Meeting of the Acoustical Society of America (ASA)*.
 
 ### 2. Music Information Retrieval (MIR)
-**Focus**: Computational approaches to analyzing, extracting, and understanding musical information
+Computational approaches to analyzing, extracting, and understanding musical information through automated analysis, pattern recognition, and signal processing.
 
-This section covers computational methods and machine learning approaches for:
-- Automated music analysis
-- Pattern recognition in musical data
-- Audio signal processing
-- Music recommendation systems
+**Projects**:
+- `1910.09021v1.pdf` - Musical instrument playing technique detection using FCN
 
-**Papers**:
-- `1910.09021v1.pdf` - ArXiv research paper (version 1)
+**References**:
+- Wang, Z., Li, J., Chen, X., Li, Z., Zhang, S., Han, B., & Yang, D. (2019). Musical Instrument Playing Technique Detection Based on FCN: Using Chinese Bowed-Stringed Instrument as an Example. *arXiv preprint arXiv:1910.09021*.
+- Wang, Z., Zhang, S., & Chen, X. (2020). Exploring Inherent Properties of the Monophonic Melody of Songs. *arXiv preprint arXiv:2003.09287*.
 
 ### 3. Algorithmic Music
-**Focus**: Mathematical and computational frameworks for music composition and analysis
+Mathematical and computational frameworks for music composition and analysis, including category theory applications and Schenkerian analysis.
 
-This section explores formal theoretical approaches to understanding musical structure, including:
-- Category theory applications to music composition
-- Schenkerian analysis and reductive approaches
-- Mathematical models of musical structure
-
-**Papers**:
-- `Music-composition-category-theory-2021.pdf` - Application of category theory to musical composition (2021)
+**Projects**:
+- `Music-composition-category-theory-2021.pdf` - Category theory applications to music composition
 - `Schenker-Dichterliebe.pdf` - Schenkerian analysis of Schumann's *Dichterliebe*
 
-## 🎯 Research Themes
+## 🎯 Key Themes
 
-The papers in this collection intersect across several key themes:
-
-- **Music Theory & Analysis**: Formal approaches to understanding musical structure
-- **Cognition & Perception**: How humans perceive and process musical information
-- **Computational Methods**: Algorithmic and mathematical approaches to music
-- **Interdisciplinary Connections**: Bridges between neuroscience, computer science, mathematics, and musicology
-
-## 🚀 Usage
-
-### For Researchers
-- Browse papers by domain to find relevant research in your field
-- Cross-reference papers across domains for interdisciplinary perspectives
-- Use as a starting point for literature reviews in music cognition, MIR, or computational musicology
-
-### For Students
-- Explore different approaches to studying music scientifically
-- Gain exposure to interdisciplinary research methodologies
-- Reference papers for coursework in music technology, cognitive science, or computer science
-
-### For Developers
-- Find theoretical foundations for music technology applications
-- Understand cognitive principles underlying music recommendation systems
-- Explore algorithmic approaches to music generation and analysis
+- **Music Theory & Analysis**: Formal approaches to musical structure
+- **Cognition & Perception**: How humans process musical information
+- **Computational Methods**: Algorithmic and mathematical approaches
+- **Interdisciplinary Connections**: Bridging neuroscience, computer science, mathematics, and musicology
 
 ## 📖 Related Fields
 
-This collection touches on several academic disciplines:
-- **Cognitive Science**: Music cognition, auditory perception
-- **Computer Science**: Machine learning, signal processing, algorithms
-- **Mathematics**: Category theory, graph theory, formal systems
-- **Music Theory**: Schenkerian analysis, harmonic syntax, voice leading
-- **Neuroscience**: Neural correlates of music processing
-
-## 🤝 Contributing
-
-This is a personal research collection, but suggestions for additional papers or corrections are welcome. Please ensure any suggested additions:
-- Are peer-reviewed or from reputable academic sources
-- Fit within the existing research domains
-- Are relevant to the computational, cognitive, or theoretical study of music
-
-## 📝 Notes
-
-- All papers are stored in PDF format
-- Papers are organized by primary research domain (though many span multiple areas)
-- File names have been preserved as received to maintain academic attribution
-
-## 📧 Contact
-
-For questions about specific papers or this collection, please refer to the original authors and publications.
+Cognitive Science • Computer Science • Mathematics • Music Theory • Neuroscience
 
 ---
 
-**Last Updated**: January 2026
-
-**Topics**: `music-cognition` `music-information-retrieval` `computational-musicology` `cognitive-neuroscience` `algorithmic-composition` `category-theory` `schenkerian-analysis` `music-theory`
+**Topics**: `music-cognition` `music-information-retrieval` `computational-musicology` `cognitive-neuroscience` `algorithmic-composition` `music-theory`
